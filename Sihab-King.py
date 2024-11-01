@@ -1,4 +1,4 @@
-jh®ך±m«뇺◜¡כimport os 
+import os 
 import uuid
 import mechanize
 #os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
