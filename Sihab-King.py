@@ -1,5 +1,4 @@
-
-import os 
+jh®ך±m«뇺◜¡כimport os 
 import uuid
 import mechanize
 #os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -223,7 +222,7 @@ def back():
 	login()
 	
 #_________[ LOGIN KEY ]______>>
-CorrectUsername = 'x' 
+CorrectUsername = 's' 
 key = 'true'
 while key == 'true':
     username = input('\033[10;97m[\033[92;1m+\033[10;97m] \033[10;93mENTER YOUR LOGIN CODE \033[1;91m: \x1b[1;92m')
